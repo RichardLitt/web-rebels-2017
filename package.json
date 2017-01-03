@@ -59,7 +59,7 @@
     "sass-lint": "^1.10.2"
   },
   "dependencies": {
-    "autoprefixer": "^6.5.3",
+    "autoprefixer": "^6.6.1",
     "body": "5.1.0",
     "bole": "3.0.2",
     "compression": "1.6.2",
