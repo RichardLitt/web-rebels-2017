@@ -51,7 +51,7 @@
     "url": "https://github.com/webrebels/web-rebels-2017/issues"
   },
   "devDependencies": {
-    "eslint": "^3.11.1",
+    "eslint": "^3.14.1",
     "eslint-config-airbnb": "^13.0.0",
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^3.0.2",
